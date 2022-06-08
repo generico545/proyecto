@@ -1,0 +1,22 @@
+{
+    "camara_1": {
+        "nombre": "sdsd",
+        "modelo": "camara 1",
+        "estado": "conectado"
+    },
+    "camara_2": {
+        "nombre": "",
+        "modelo": "",
+        "estado": "desconectado"
+    },
+    "camara_3": {
+        "nombre": "",
+        "modelo": "",
+        "estado": "desconectado"
+    },
+    "camara_4": {
+        "nombre": "",
+        "modelo": "",
+        "estado": "desconectado"
+    }
+}
